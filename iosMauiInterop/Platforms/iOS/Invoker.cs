@@ -5,7 +5,7 @@
         public string ReturnStringWithInput(string input)
         {
             Binding.SwiftLibrary swiftLibrary = new Binding.SwiftLibrary();
-            return swiftLibrary.ReturnStringWithInput(input).ToString();
+            return swiftLibrary.ReturnStringWithInput(input);
         }
     }
 }
