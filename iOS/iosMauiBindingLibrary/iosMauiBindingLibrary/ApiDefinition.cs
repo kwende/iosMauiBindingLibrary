@@ -1,4 +1,5 @@
-﻿using Foundation;
+﻿using System;
+using Foundation;
 
 namespace Binding
 {
@@ -6,8 +7,8 @@ namespace Binding
     [BaseType(typeof(NSObject))]
     interface SwiftLibrary
     {
-        // -(NSString * _Nonnull)returnStringWithInput:(NSString * _Nonnull)input __attribute__((warn_unused_result("")));
+        // -(NSInteger)returnStringWithInput:(NSString * _Nonnull)input __attribute__((warn_unused_result("")));
         [Export("returnStringWithInput:")]
-        string ReturnStringWithInput(string input);
+        nint ReturnStringWithInput(string input);
     }
 }

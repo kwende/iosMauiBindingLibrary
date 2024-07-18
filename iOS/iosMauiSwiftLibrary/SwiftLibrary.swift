@@ -12,12 +12,12 @@ import UIKit
 public class SwiftLibrary : NSObject{
     
     @objc
-    public func returnString(input: String)->String{
+    public func returnString(input: String)->Int {
         
         // returning a String breaks
-        return "You gave me " + input;
+        //return "You gave me " + input;
         
         // if you change to return an Int, it works.
-        //return 55;
+        return 55;
     }
 }
