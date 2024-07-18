@@ -302,7 +302,7 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 
 SWIFT_CLASS_NAMED("SwiftLibrary")
 @interface SwiftLibrary : NSObject
-- (NSInteger)returnStringWithInput:(NSString * _Nonnull)input SWIFT_WARN_UNUSED_RESULT;
+- (NSString * _Nonnull)returnStringWithInput:(NSString * _Nonnull)input SWIFT_WARN_UNUSED_RESULT;
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 @end
 
