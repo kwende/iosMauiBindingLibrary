@@ -1,0 +1,11 @@
+framework module iosMauiSwiftLibrary {
+  umbrella header "iosMauiSwiftLibrary.h"
+  export *
+
+  module * { export * }
+}
+
+module iosMauiSwiftLibrary.Swift {
+  header "iosMauiSwiftLibrary-Swift.h"
+  requires objc
+}
