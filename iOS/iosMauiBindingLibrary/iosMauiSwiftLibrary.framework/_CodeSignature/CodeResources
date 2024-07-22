@@ -18,7 +18,7 @@
 		</data>
 		<key>Modules/iosMauiSwiftLibrary.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
 		<data>
-		xywsXQDHZvTXh0zdwoSnJwJ3u/w=
+		/fLzz8Mq7aXQ7reDaklNsVGGYjk=
 		</data>
 		<key>Modules/iosMauiSwiftLibrary.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
@@ -30,7 +30,7 @@
 		</data>
 		<key>Modules/iosMauiSwiftLibrary.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		BDEDXJkzIuzrmwD5YVKyABcInjA=
+		xNiV5PmS+ZL496VmkDq5BULcogQ=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -57,7 +57,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			6bMh1gEiRzRgsCG8cX0zHbebK6tKe45hPr6vAk/xm4M=
+			vz4vAig6uoAk3KlTIYILbCqtSp8f0CNPE4ms/odyqtg=
 			</data>
 		</dict>
 		<key>Modules/iosMauiSwiftLibrary.swiftmodule/arm64-apple-ios.abi.json</key>
@@ -78,7 +78,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			yatAm5wkPlj0zagYwi8TuR5PmFxGI+SM+dO34TkEg6M=
+			oq0pGhUPQvxeW14gXA+uhPIqBw4zqGAhG2F9awJGHTs=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
